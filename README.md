@@ -5,6 +5,6 @@
 - 1:1 only
 - auto connect by broadcasting
 
-![GUIs](server.png)
+![GUIs](images/server.png)
 
-![GUIc](client.png)
+![GUIc](images/client.png)
